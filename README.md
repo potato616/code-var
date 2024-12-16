@@ -25,6 +25,10 @@ You can navigate to CodeVar in the Extensions tab to set its translation source 
 
 <img src="./assets/configs.png" width="750px" />
 
+### NewFeatures
+
+- Extract PascalCase, camelCase, CONSTANT_CASE, snake_case and kebab-case methods into separate panels
+
 ### License
 
 MIT
