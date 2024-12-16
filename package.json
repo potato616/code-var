@@ -15,6 +15,36 @@
       "title": "CodeVar",
       "description": "Generate variable names in multiple formats case.",
       "mode": "view"
+    }, 
+    {
+      "name": "camelCase",
+      "title": "CodeVar: 小驼峰",
+      "description": "Convert to 小驼峰",
+      "mode": "view"
+    },
+    {
+      "name": "pascalCase",
+      "title": "CodeVar: 大驼峰",
+      "description": "Convert to 大驼峰",
+      "mode": "view"
+    },
+    {
+      "name": "constantCase",
+      "title": "CodeVar: 常量",
+      "description": "Convert to 常量",
+      "mode": "view"
+    },
+    {
+      "name": "snakeCase",
+      "title": "CodeVar: 下划线",
+      "description": "Convert to 下划线",
+      "mode": "view"
+    },
+    {
+      "name": "paramCase",
+      "title": "CodeVar: 中划线",
+      "description": "Convert to 中划线",
+      "mode": "view"
     }
   ],
   "preferences": [
